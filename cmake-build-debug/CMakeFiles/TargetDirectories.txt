@@ -1,0 +1,3 @@
+P:/Projects/EmbConPractice/SensorLogger/cmake-build-debug/CMakeFiles/SensorLogger.dir
+P:/Projects/EmbConPractice/SensorLogger/cmake-build-debug/CMakeFiles/edit_cache.dir
+P:/Projects/EmbConPractice/SensorLogger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
