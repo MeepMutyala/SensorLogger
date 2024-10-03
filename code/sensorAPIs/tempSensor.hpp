@@ -4,7 +4,9 @@
 
 #ifndef TEMPSENSOR_HPP
 #define TEMPSENSOR_HPP
-
+#include <atomic>
+#include <mutex>
+#include <thread>
 
 
 class tempSensor {
@@ -14,11 +16,14 @@ public:
 
     void start();
     void stop();
-    void getTemp();
+    int getTemp() const;
 
 private:
-
-
+    mutable std::mutex m;
+    std::thread sensorThread;
+    std::atomic<bool> running;
+    void run();
+    int tempReading;
 };
 
 

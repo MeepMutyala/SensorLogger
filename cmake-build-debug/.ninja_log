@@ -1,0 +1,17 @@
+# ninja log v6
+161	389	7496709734462473	CMakeFiles/SensorLogger.dir/code/loggerAPIs/realtimeLogger.cpp.obj	3af075d510701154
+70	393	7496709733552324	CMakeFiles/SensorLogger.dir/code/dataFusion.cpp.obj	67296eebc0f2d4dd
+197	407	7496709734817598	CMakeFiles/SensorLogger.dir/code/loggerAPIs/eventLogger.cpp.obj	a8e12a2941a3f8b4
+8	838	7496709732937020	CMakeFiles/SensorLogger.dir/main.cpp.obj	6ceebb40176b6217
+33	1322	7496709733176981	CMakeFiles/SensorLogger.dir/code/sensorAPIs/lightSensor.cpp.obj	3a151b30ee421f39
+23	661	7496720777527028	CMakeFiles/SensorLogger.dir/code/sensorAPIs/tempSensor.cpp.obj	db8217258099e57d
+6	739	7496720777367097	CMakeFiles/SensorLogger.dir/code/sensorAPIs/lightSensor.cpp.obj	3a151b30ee421f39
+739	1225	7496720784683995	SensorLogger.exe	c3b52d658ac61a2c
+32	533	7496727386297604	CMakeFiles/SensorLogger.dir/code/loggerAPIs/realtimeLogger.cpp.obj	3af075d510701154
+13	753	7496727386107629	CMakeFiles/SensorLogger.dir/main.cpp.obj	6ceebb40176b6217
+60	769	7496727386577753	CMakeFiles/SensorLogger.dir/code/loggerAPIs/eventLogger.cpp.obj	a8e12a2941a3f8b4
+9	541	7496728472785210	CMakeFiles/SensorLogger.dir/code/loggerAPIs/eventLogger.cpp.obj	a8e12a2941a3f8b4
+11	562	7496730273582316	CMakeFiles/SensorLogger.dir/main.cpp.obj	6ceebb40176b6217
+29	580	7496730273762460	CMakeFiles/SensorLogger.dir/code/loggerAPIs/eventLogger.cpp.obj	a8e12a2941a3f8b4
+12	978	7496732157101986	CMakeFiles/SensorLogger.dir/code/loggerAPIs/eventLogger.cpp.obj	a8e12a2941a3f8b4
+979	1596	7496732166773320	SensorLogger.exe	c3b52d658ac61a2c

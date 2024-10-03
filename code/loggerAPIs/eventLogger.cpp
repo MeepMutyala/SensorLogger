@@ -3,3 +3,14 @@
 //
 
 #include "eventLogger.hpp"
+#include <iostream>
+
+eventLogger::eventLogger(): tempType(0) {}
+
+
+void eventLogger::logEvent(std::string event) {
+    std::cout << "Event: " << event;
+}
+eventLogger::~eventLogger() {
+
+}
